@@ -1,12 +1,12 @@
 import React from "react";
 import Project from "../components/Project";
 // import images
-import matrix from "../assets/images/project1.png";
-import chrip from "../assets/images/project2.png";
-import weather from "../assets/images/project3.png";
-import quiz from "../assets/images/project4.png";
-import book from "../assets/images/project5.png";
-import run from "../assets/images/project6.png";
+import matrix from "../assets/images/project1.jpg";
+import chrip from "../assets/images/project2.jpg";
+import weather from "../assets/images/project3.jpg";
+import quiz from "../assets/images/project4.jpg";
+import book from "../assets/images/project5.jpg";
+import run from "../assets/images/project6.jpg";
 
 export default function Portfolio() {
   const projects = [

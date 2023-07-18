@@ -1,6 +1,6 @@
 import React from "react";
-import githubIcon from "../assets/icons/github.png";
-import linkedinIcon from "../assets/icons/linkedin.png";
+import githubIcon from "../assets/icons/github.jpg";
+import linkedinIcon from "../assets/icons/linkedin.jpg";
 
 export default function Footer() {
   return (
@@ -16,7 +16,7 @@ export default function Footer() {
       </div>
       <div>
         <a
-          href="https://www.linkedin.com/"
+          href="https://www.linkedin.com/in/mauricio-gomez-blanco-468681101"
           target="_blank"
           rel="noreferrer noopener"
         >
