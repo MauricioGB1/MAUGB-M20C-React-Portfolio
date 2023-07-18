@@ -7,7 +7,7 @@ export default function Header(props) {
     <Navbar collapseOnSelect className="navbar" variant="dark" expand="sm" aria-current="true">
       <Navbar.Brand href="/portfolio-React" className="name">
         {" "}
-        &lt; Wenwen /&gt;
+        &lt; MauG /&gt;
       </Navbar.Brand>
       {/* Responsive Navbars */}
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />

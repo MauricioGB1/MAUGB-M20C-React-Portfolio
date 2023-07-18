@@ -23,7 +23,7 @@ export default function Footer() {
           <img className="icon" src={linkedinIcon} alt="linkedin icon" />
         </a>
       </div>
-      <p className="copyright">©Made by Wenwen Tian</p>
+      <p className="copyright">MG</p>
     </div>
   );
 }

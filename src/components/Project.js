@@ -1,5 +1,5 @@
 import React from "react";
-import githubIcon from "../assets/icons/gh-black.png";
+import githubIcon from "../assets/icons/gh-black.jpg";
 
 export default function Project(props) {
   return (
