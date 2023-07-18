@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { validateEmail } from "../utils/helpers";
-import errorIcon from "../assets/icons/error.png";
-import sendIcon from "../assets/icons/send.png";
+import errorIcon from "../assets/icons/error.jpg";
+import sendIcon from "../assets/icons/send.jpg";
 import Footer from "../components/Footer";
 
 export default function Contact() {

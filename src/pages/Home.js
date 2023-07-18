@@ -1,6 +1,6 @@
 import React from "react";
 import Typed from "react-typed";
-import webIcon from "../assets/icons/web.png";
+import webIcon from "../assets/icons/web.jpg";
 import Particles from "react-tsparticles";
 import { loadLinksPreset } from "tsparticles-preset-links";
 import Footer from "../components/Footer";
@@ -16,7 +16,7 @@ export default function Home() {
     <div>
       <div className="container">
         <div className="intro">
-          <h1 className="hi">Mauricio Gomez</h1>
+          <h1 className="hi">I am Mauricio Gomez</h1>
           <Typed
             className="typing"
             strings={["Full Stack Developer", "Engineer"]}
