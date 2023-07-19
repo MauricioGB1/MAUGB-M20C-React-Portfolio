@@ -246,8 +246,8 @@ body {
     text-align: center;
     border-radius: 20px;
     border: 2px solid transparent;
-    background: linear-gradient(#000000, black) padding-box,
-      linear-gradient(to left, #00c853, #b2ff59) border-box;
+    background: linear-gradient(#808080, black) padding-box,
+      linear-gradient(to left, #0078c8, #59ff67) border-box;
   }
   
   .tag {
@@ -265,7 +265,7 @@ body {
     padding: 0.25rem 0.75rem;
     border-radius: 100px;
     margin: 0 6px 6px 0;
-    background: linear-gradient(to right, #00c853, #b2ff59);
+    background: linear-gradient(to right, #0078c8, #59ff67);
     font-weight: 600;
     letter-spacing: 0.7px;
   }
