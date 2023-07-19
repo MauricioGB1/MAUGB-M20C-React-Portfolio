@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MAUGB-M20C-React-Portfolio/precache-manifest.3b40cf9f6f99cabfce5e5bb18d7d99ed.js"
+  "/MAUGB-M20C-React-Portfolio/precache-manifest.65017a3586d2d071a3d72bfe1070b1ff.js"
 );
 
 workbox.clientsClaim();

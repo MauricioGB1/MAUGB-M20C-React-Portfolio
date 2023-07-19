@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "09f7f99abbe29f5059e6",
+    "revision": "a9a240da5c9c9ea97b5f",
     "url": "/MAUGB-M20C-React-Portfolio/static/css/main.26c9f1b6.chunk.css"
   },
   {
-    "revision": "09f7f99abbe29f5059e6",
-    "url": "/MAUGB-M20C-React-Portfolio/static/js/main.1a34785e.chunk.js"
+    "revision": "a9a240da5c9c9ea97b5f",
+    "url": "/MAUGB-M20C-React-Portfolio/static/js/main.19f6d0c9.chunk.js"
   },
   {
     "revision": "d271d5e52521e33689f6",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/MAUGB-M20C-React-Portfolio/static/media/download.d37b460f.jpg"
   },
   {
-    "revision": "7c087475695031cfb99d89816fe0c7cc",
+    "revision": "35eddcac436a88538f7f6387e3c62bb8",
     "url": "/MAUGB-M20C-React-Portfolio/index.html"
   }
 ];
