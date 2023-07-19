@@ -33,6 +33,7 @@ export default function About() {
                Experience on Development of new products and technologies, implement and manage Quality systems, 
                project execution, develop and partner with strategic suppliers. Experience on following Industries: 
                Consumer electronics, Automotive, Chemicals and Construction products.
+               </p>
           </div>
         </Col>
       </Row>
