@@ -1,6 +1,6 @@
 import React from "react";
 import CV from "../assets/resume/Resume.pdf";
-import download from "../assets/icons/download.png";
+import download from "../assets/icons/download.jpg";
 
 export default function Resume() {
   return (
