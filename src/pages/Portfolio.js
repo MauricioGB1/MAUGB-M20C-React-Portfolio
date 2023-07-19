@@ -11,14 +11,14 @@ import run from "../assets/images/project6.jpg";
 export default function Portfolio() {
   const projects = [
     {
-      title: "Project 1 🔗",
+      title: "Project 1 - Password Generator🔗",
       descriiption: "detail project 1.",
       image: run,
       github: "https://github.com/MauricioGB1/MAUGB-M3C-Password-Generator-03-23-JS",
       deploy: "https://mauriciogb1.github.io/MAUGB-M3C-Password-Generator-03-23-JS/",
     },
     {
-      title: "Project 2  🔗",
+      title: "Project 2 - Timed Coding Quiz 🔗",
       descriiption:
         "detail project 2.",
       image: book,
@@ -26,7 +26,7 @@ export default function Portfolio() {
       deploy: "https://mauriciogb1.github.io/MAUGB-M4C-Coding-Assessment-API-Timed-Coding-Quiz/",
     },
     {
-      title: "Project 3 🔗",
+      title: "Project 3- Work Day Scheduler 🔗",
       descriiption:
         "detail project 3..",
       image: matrix,
@@ -34,7 +34,7 @@ export default function Portfolio() {
       deploy: "https://mauriciogb1.github.io/MAUGB-M5C-Work-Day-Scheduler-Third-Party-API/",
     },
     {
-      title: "Project 4  🔗",
+      title: "Project 4 - API Weather Dashboard  🔗",
       descriiption:
         "detail project 4.",
       image: chrip,
@@ -43,14 +43,14 @@ export default function Portfolio() {
     },
 
     {
-      title: "Project 5  🔗",
+      title: "Project 5 - Brewery Locator 🔗",
       descriiption: "detail project 5.",
       image: weather,
       github: "https://github.com/MauricioGB1/Project-1-Brewery-locator-and-rating-service-website-Group-6",
       deploy: "https://mauriciogb1.github.io/Project-1-Brewery-locator-and-rating-service-website-Group-6/",
     },
     {
-      title: "Project 6  🔗",
+      title: "Project 6 - Back-end  Note Taker 🔗",
       descriiption: "detail project 6.",
       image: quiz,
       github: "https://github.com/MauricioGB1/MAUGB-M11C-Express-Js-Back-End-Note-Taker",
