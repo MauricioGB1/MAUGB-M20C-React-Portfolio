@@ -21,11 +21,19 @@ export default function About() {
               Manage new product development projects, Engineering, Quality.
             </p>
             <p>
-              Multiple industries elctronics, automotive, equipment development, chemical industry, software.
+            Full-stack code developer, experience on multiple industries elctronics, automotive, equipment development, chemical industry, software.
             </p>
             <p>
-              Full-stack code developer
-            </p>
+              Code developer and technology enthusiastic. 
+              Quality leader wide experience on Quality Management Systems , Supplier Quality Management, 
+              New product development, Engineering Management, Project Management, R&D, Quality Assurance,
+              Operations Excellence, Strategic management, Manufacturing, Auditing, and 3rd Party certifications.
+              Worked in different International and domestic assignments, 
+               collaborating and managing multi-functional and multicultural teams. 
+               Experience on Development of new products and technologies, implement and manage Quality systems, 
+               project execution, develop and partner with strategic suppliers. Experience on following Industries: 
+               Consumer electronics, Automotive, Chemicals and Construction products.
+               </p>
           </div>
         </Col>
       </Row>
