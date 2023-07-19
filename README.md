@@ -71,14 +71,20 @@ Move to the navigation section a click on the section that you would like to rev
 
 About me information
 
+![alt text]( ./src/assets/images/about.jpg)
+
 Projects information, click each of the section to access the project and link to the repository location or deployed application
 
+![alt text]( ./src/assets/images/projects.jpg)
+
 On the section of comments enter information and submit data, e-mail will be validated.
+
+![alt text]( ./src/assets/images/contact.jpg)
 
 Download the resume on the section resume click the download button.
 
 
-![alt text](assets/images/screenshot.png)
+![alt text]( ./src/assets/images/resume.jpg)
 
 ## Credits
 
