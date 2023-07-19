@@ -14,47 +14,47 @@ export default function Portfolio() {
       title: "Project 1 🔗",
       descriiption: "detail project 1.",
       image: run,
-      github: "https://github.com/",
-      deploy: "https://google.com",
+      github: "https://github.com/MauricioGB1/MAUGB-M3C-Password-Generator-03-23-JS",
+      deploy: "https://mauriciogb1.github.io/MAUGB-M3C-Password-Generator-03-23-JS/",
     },
     {
       title: "Project 2  🔗",
       descriiption:
         "detail project 2.",
       image: book,
-      github: "https://github.com/",
-      deploy: "https://google.com",
+      github: "https://github.com/MauricioGB1/MAUGB-M4C-Coding-Assessment-API-Timed-Coding-Quiz",
+      deploy: "https://mauriciogb1.github.io/MAUGB-M4C-Coding-Assessment-API-Timed-Coding-Quiz/",
     },
     {
       title: "Project 3 🔗",
       descriiption:
         "detail project 3..",
       image: matrix,
-      github: "https://github.com/",
-      deploy: "hhttps://google.com",
+      github: "https://github.com/MauricioGB1/MAUGB-M5C-Work-Day-Scheduler-Third-Party-API",
+      deploy: "https://mauriciogb1.github.io/MAUGB-M5C-Work-Day-Scheduler-Third-Party-API/",
     },
     {
       title: "Project 4  🔗",
       descriiption:
         "detail project 4.",
       image: chrip,
-      github: "https://github.com/",
-      deploy: "https://google.com",
+      github: "https://mauriciogb1.github.io/MAUGB-M6C-Server-Side-API-Weather-Dashboard/",
+      deploy: "https://mauriciogb1.github.io/Project-1-Brewery-locator-and-rating-service-website-Group-6/",
     },
 
     {
       title: "Project 5  🔗",
       descriiption: "detail project 5.",
       image: weather,
-      github: "https://github.com/",
-      deploy: "https://google.com",
+      github: "https://github.com/MauricioGB1/Project-1-Brewery-locator-and-rating-service-website-Group-6",
+      deploy: "https://mauriciogb1.github.io/Project-1-Brewery-locator-and-rating-service-website-Group-6/",
     },
     {
       title: "Project 6  🔗",
       descriiption: "detail project 6.",
       image: quiz,
-      github: "https://github.com/",
-      deploy: "https://google.com",
+      github: "https://github.com/MauricioGB1/MAUGB-M11C-Express-Js-Back-End-Note-Taker",
+      deploy: "https://serene-inlet-45208.herokuapp.com/",
     },
 
   ];
